@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/run.png</file>
+        <file>image/stop (2).png</file>
+        <file>image/openData.png</file>
+    </qresource>
+</RCC>
